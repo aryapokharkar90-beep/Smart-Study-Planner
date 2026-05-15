@@ -37,7 +37,9 @@ Smart-Study-Planner/
 ├── script.js
 └── README.md
 
-🎯 Purpose of the Project
+---
+
+## 🎯 Purpose of the Project
 
 This project was developed to create a simple and effective study planning platform for students. It helps users organize their daily study activities and improve productivity through task tracking and streak maintenance.
 
@@ -62,7 +64,7 @@ Run index.html in your browser
 
 👩‍💻 Developer
 
-Payal Kalokhe
+Arya pokharkar
 
 GitHub:
 GitHub Profile

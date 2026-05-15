@@ -36,3 +36,53 @@ Smart-Study-Planner/
 ├── style.css
 ├── script.js
 └── README.md
+
+🎯 Purpose of the Project
+
+This project was developed to create a simple and effective study planning platform for students. It helps users organize their daily study activities and improve productivity through task tracking and streak maintenance.
+
+💡 Future Improvements
+User Authentication
+Database Integration
+Dark Mode
+Notifications & Reminders
+Mobile Optimization
+Cloud Data Storage
+📸 Screenshots
+
+(Add your project screenshots here later)
+
+▶️ How to Run the Project
+Download or clone the repository
+Open the project folder
+Run index.html in your browser
+🌐 Project Status
+
+✅ Completed and Functional
+
+👩‍💻 Developer
+
+Payal Kalokhe
+
+GitHub:
+GitHub Profile
+
+
+---
+
+# Now do this
+
+## Step 1
+Inside VS Code:
+- Right click in explorer
+- Create new file:
+  
+```text id="vpp4px"
+README.md
+Step 2
+
+Paste everything.
+
+Step 3
+
+Save file.

@@ -23,32 +23,51 @@ A clean and interactive productivity web application designed to help students m
 
 ---
 
-🎯 Purpose of the Project
+---
+
+## 🎯 Purpose of the Project
 
 This project was developed to create a simple and effective study planning platform for students. It helps users organize their daily study activities and improve productivity through task tracking and streak maintenance.
 
-💡 Future Improvements
-User Authentication
-Database Integration
-Dark Mode
-Notifications & Reminders
-Mobile Optimization
-Cloud Data Storage
-📸 Screenshots
+---
+
+## 💡 Future Improvements
+
+- User Authentication
+- Database Integration
+- Dark Mode
+- Notifications & Reminders
+- Mobile Optimization
+- Cloud Data Storage
+
+---
+
+## 📸 Screenshots
 
 (Add your project screenshots here later)
 
-▶️ How to Run the Project
-Download or clone the repository
-Open the project folder
-Run index.html in your browser
-🌐 Project Status
+---
+
+## ▶️ How to Run the Project
+
+1. Download or clone the repository
+2. Open the project folder
+3. Run `index.html` in your browser
+
+---
+
+## 🌐 Project Status
 
 ✅ Completed and Functional
 
-👩‍💻 Developer
+---
 
-Arya pokharkar
+## 👩‍💻 Developer
+
+**Arya Pokharkar**
+
+GitHub:  
+https://github.com/aryapokharkar90-beep
 
 ## 📂 Project Structure
 

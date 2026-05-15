@@ -44,7 +44,11 @@ This project was developed to create a simple and effective study planning platf
 
 ## 📸 Screenshots
 
-(Add your project screenshots here later)
+<img width="1600" height="908" alt="home screen" src="https://github.com/user-attachments/assets/f794fc7a-bd7d-42ff-a050-38fa79750f7a" />
+<img width="1600" height="652" alt="task manager" src="https://github.com/user-attachments/assets/6854688b-9cc8-4ff1-9fa5-bcb60a622135" />
+<img width="1600" height="451" alt="streak" src="https://github.com/user-attachments/assets/6033ad87-3b7f-447b-9a0d-cd5d7bf3a33d" />
+<img width="1600" height="627" alt="calender" src="https://github.com/user-attachments/assets/7f2f7ffd-10b5-4b26-89e1-6685849cbda6" />
+<img width="1600" height="908" alt="profile" src="https://github.com/user-attachments/assets/36d17fd5-22e6-4e03-bd20-5a176c430267" />
 
 ---
 
@@ -68,6 +72,8 @@ This project was developed to create a simple and effective study planning platf
 
 GitHub:  
 https://github.com/aryapokharkar90-beep
+
+---
 
 ## 📂 Project Structure
 
